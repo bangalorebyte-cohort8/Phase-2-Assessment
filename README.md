@@ -16,9 +16,10 @@ A user can create multiple events
 # User Stories:
 As a user, I can register for an account and sign in/out. (i.e. an account has a unique e-mail, password)
 As a user, I can create new events (Events have a title, description, location)
-As a user, I have a personal page that shows all the events that I've created and attended
-As a user, I have a personal page that shows all the events based on the chosen location
-As a user, I have a personal page that shows all the events based on the selected date
+As a user, I have a personal page that shows all the events 
+a) that I've created and attended
+b) based on the chosen location
+c) based on the selected date
 
 Personal Page - is a dashboard feature the above three components.
 
