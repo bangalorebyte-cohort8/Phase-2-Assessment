@@ -3,7 +3,9 @@
 # Description
 
 You're almost at the finish line!
+
 Your assessment today will be to build a SINGLE PAGE CRUD event management application.
+
 I have provided the user stories below along with some hints.
 
 # Objectives
